@@ -1,0 +1,10 @@
+name: AttackDelayPlugin
+version: 1.2
+main: com.example.attackdelayplugin.AttackDelayPlugin
+api-version: 1.18
+author: YourName
+description: A plugin to disable attack delay and mimic 1.8.9 combat mechanics.
+commands:
+  attackdelay:
+    description: Toggles attack delay on or off.
+    usage: /attackdelay <on|off>
